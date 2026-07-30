@@ -1,0 +1,18 @@
+[
+  {
+    "type": "DOOR_OPEN",
+    "priority": 1
+  },
+  {
+    "type": "ALARM",
+    "priority": 3
+  },
+  {
+    "type": "FIRE",
+    "priority": 5
+  },
+  {
+    "type": "POWER_LOSS",
+    "priority": 4
+  }
+]
